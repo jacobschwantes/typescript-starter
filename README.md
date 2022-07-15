@@ -26,7 +26,13 @@ _A development server will open at [localhost:3000][wiki]._
 
 
 ## Release History
-
+* 0.2.0
+    * Remove unused jsx in index
+    * Create layouts, types, utils, modules, and content directories
+    * Add relative imports to tsconfig
+    * Add starter barrel for components
+    * Add loading spinner component
+    * Update packages
 * 0.1.0
     * Update folder structure
     * Move root strucure into `src`
